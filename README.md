@@ -22,9 +22,8 @@ pod 'SBLoan'
 
 ## Author
 
-gilmar_mendonca@live.com, gilmar_mendonca@live.com
+GilmarJr, gilmar_mendonca@live.com
 
 ## License
 
 SBLoan is available under the MIT license. See the LICENSE file for more info.
->>>>>>> e54b43d (Initial commit)
