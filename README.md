@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SBLoan
-=======
 # SBLoan
 
 [![CI Status](https://img.shields.io/travis/gilmar_mendonca@live.com/SBLoan.svg?style=flat)](https://travis-ci.org/gilmar_mendonca@live.com/SBLoan)
