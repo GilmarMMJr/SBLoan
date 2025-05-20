@@ -9,26 +9,16 @@
 Pod::Spec.new do |s|
   s.name             = 'SBLoan'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SBLoan.'
+  s.summary          = 'Modo utilizado no aplicativo SwiftBank para funcionalidade de Emprestimos'
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.description      = 'SBLoan e uma biblioteca que permite o usuario acessar sua carteira de credito disponivel'
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
-  s.homepage         = 'https://github.com/gilmar_mendonca@live.com/SBLoan'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/GilmarMMJr/SBLoan'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'gilmar_mendonca@live.com' => 'gilmar_mendonca@live.com' }
-  s.source           = { :git => 'https://github.com/gilmar_mendonca@live.com/SBLoan.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'GilmarJr' => 'gilmar_mendonca@live.com' }
+  s.source           = { :git => 'https://github.com/GilmarMMJr/SBLoan.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'SBLoan/Classes/**/*'
   
